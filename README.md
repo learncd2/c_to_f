@@ -1,1 +1,1 @@
-"# c_to_f" 
+# This is a program to transfer Celsius to Fahrenheit.
